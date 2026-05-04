@@ -11,7 +11,7 @@
 
 **CS @ ASU Barrett Honors | Research @ LANL Bio-Robotics Lab**
 
-Building systems that actually matter. Real-time robotics control, AI developer tools, healthcare platforms—if it improves how people work or live, I'm interested.
+Building systems that change the world. Real-time robotics control, AI developer tools, healthcare platforms—if it improves how people work or live, I'm interested.
 
 ---
 
