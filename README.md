@@ -9,110 +9,64 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+**CS @ ASU Barrett Honors | Research @ LANL Bio-Robotics Lab**
+
 Building systems that actually matter. Real-time robotics control, AI developer tools, healthcare platforms—if it improves how people work or live, I'm interested.
 
 ---
 
-## ⚡ Current Focus
-```python
-class Surya:
-    def __init__(self):
-        self.role = "Undergraduate Researcher"
-        self.location = "Phoenix, AZ"
-        self.research = "Computer Vision + Robotics @ LANL"
-        self.passion = "Building impactful systems"
-    
-    def current_projects(self):
-        return [
-            "Real-time CV control (50% latency ↓)",
-            "RAG systems with LangChain",
-            "Healthcare access platforms"
-        ]
-```
+## 🎯 What I Do
+
+- 🤖 **Bio-Robotics Research** - Real-time computer vision and control systems at Los Alamos National Laboratory
+- 🧠 **AI Tools** - Building RAG systems, chatbots, and ML classifiers that solve real problems
+- 💊 **Healthcare Tech** - Platforms that connect patients with doctors and streamline medical workflows
+- ⚡ **Embedded Systems** - Hardware programming with ESP32, Arduino, and real-time control
 
 ---
 
-## 🛠️ Recent Builds
+## 🛠️ Recent Projects
 
 **[DevDocs AI](https://github.com/Sonnu123/devdocs-ai)**  
-RAG-based documentation Q&A • LangChain + FAISS + Gemini • 60% hallucination reduction
+Tired of digging through documentation? Built a smart Q&A system using AI that answers technical questions instantly.  
+*Tech: LangChain, FAISS, Python*
 
 **[MedConnect](https://github.com/Sonnu123/medconnect)**  
-Healthcare platform • Spring Boot + JWT + PostgreSQL • Role-based access for patients/doctors/admins
+Healthcare platform where patients can book appointments, doctors can manage schedules, and admins oversee everything.  
+*Tech: Spring Boot, React, PostgreSQL*
 
 **[Medieval Adventures](https://github.com/Sonnu123/dnd-game)**  
-AI-powered D&D game • FastAPI + MySQL + Gemini AI • Deployed on Railway
+AI-powered D&D game that generates stories, handles combat, and creates characters on the fly.  
+*Tech: FastAPI, MySQL, Gemini AI*
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-```python
-tech_stack = {
-    "languages": {
-        "proficient": ["Python", "Java", "C++", "JavaScript", "SQL","C", "TypeScript", "Bash/Shell", "MIPS Assembly"]
-    },
-    
-    "backend": {
-        "frameworks": ["Spring Boot", "FastAPI", "Flask", "Node.js/Express"],
-        "apis": ["REST", "GraphQL", "WebSockets"],
-        "auth": ["JWT", "OAuth 2.0", "BCrypt"]
-    },
-    
-    "frontend": {
-        "frameworks": ["React", "SwiftUI", "JavaFX"],
-        "styling": ["Tailwind CSS", "Bootstrap", "Material-UI"],
-        "state": ["Redux", "Context API", "SwiftData"]
-    },
-    
-    "ai_ml": {
-        "frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
-        "nlp": ["LangChain", "FAISS", "Google Gemini API", "OpenAI API"],
-        "cv": ["OpenCV", "NumPy", "PIL/Pillow"],
-        "tools": ["Jupyter", "Pandas", "Matplotlib", "Seaborn"]
-    },
-    
-    "databases": {
-        "relational": ["PostgreSQL", "MySQL", "SQLite"],
-        "nosql": ["Firebase Firestore", "MongoDB"],
-        "orm": ["JPA/Hibernate", "SQLAlchemy"]
-    },
-    
-    "devops": {
-        "containerization": ["Docker", "Docker Compose"],
-        "version_control": ["Git", "GitHub", "GitHub Actions"],
-        "deployment": ["Railway", "Heroku", "AWS EC2"],
-        "ci_cd": ["GitHub Actions", "Maven", "Gradle"]
-    },
-    
-    "embedded_systems": {
-        "hardware": ["ESP32", "Arduino", "Raspberry Pi"],
-        "protocols": ["I2C", "UART", "SPI"],
-        "tools": ["PlatformIO", "Serial Monitor"]
-    },
-    
-    "testing": {
-        "frameworks": ["JUnit", "pytest", "Jest"],
-        "tools": ["Postman", "Mockito", "unittest"]
-    },
-    
-    "other_tools": [
-        "Linux/Unix", "VS Code", "IntelliJ IDEA", "Xcode",
-        "Eclipse", "Vim", "LaTeX", "Figma", "Scapy"
-    ]
-}
-```
+**Languages**  
+Python • Java • C++ • JavaScript • SQL • C • TypeScript
 
-**Current Focus Areas:**
-- 🤖 Computer Vision & Real-Time Control Systems
-- 🧠 RAG Systems & LLM Applications  
-- 🏥 Healthcare Platform Development
-- ⚡ Embedded Systems & IoT
+**AI & Machine Learning**  
+TensorFlow • PyTorch • LangChain • OpenCV • scikit-learn • Pandas
+
+**Backend Development**  
+Spring Boot • FastAPI • Node.js • REST APIs • JWT Authentication
+
+**Frontend Development**  
+React • SwiftUI • Tailwind CSS • JavaFX
+
+**Databases**  
+PostgreSQL • MySQL • Firebase • MongoDB
+
+**Tools & Platforms**  
+Git • Docker • Linux • AWS • GitHub Actions
+
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketherramilli@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-erramilli-2a590120a/)
 
-*"Code that ships is code that matters."*
+---
+
+*Building things that ship.*
