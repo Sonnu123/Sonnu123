@@ -9,8 +9,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-**CS @ ASU Barrett Honors | Research @ LANL Bio-Robotics Lab**
-
 Building systems that actually matter. Real-time robotics control, AI developer tools, healthcare platforms—if it improves how people work or live, I'm interested.
 
 ---
