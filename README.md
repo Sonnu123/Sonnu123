@@ -45,17 +45,69 @@ AI-powered D&D game • FastAPI + MySQL + Gemini AI • Deployed on Railway
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
-**Languages**  
-`Python` `Java` `C++` `JavaScript` `SQL` `C`
+```python
+tech_stack = {
+    "languages": {
+        "proficient": ["Python", "Java", "C++", "JavaScript", "SQL","C", "TypeScript", "Bash/Shell", "MIPS Assembly"]
+    },
+    
+    "backend": {
+        "frameworks": ["Spring Boot", "FastAPI", "Flask", "Node.js/Express"],
+        "apis": ["REST", "GraphQL", "WebSockets"],
+        "auth": ["JWT", "OAuth 2.0", "BCrypt"]
+    },
+    
+    "frontend": {
+        "frameworks": ["React", "SwiftUI", "JavaFX"],
+        "styling": ["Tailwind CSS", "Bootstrap", "Material-UI"],
+        "state": ["Redux", "Context API", "SwiftData"]
+    },
+    
+    "ai_ml": {
+        "frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
+        "nlp": ["LangChain", "FAISS", "Google Gemini API", "OpenAI API"],
+        "cv": ["OpenCV", "NumPy", "PIL/Pillow"],
+        "tools": ["Jupyter", "Pandas", "Matplotlib", "Seaborn"]
+    },
+    
+    "databases": {
+        "relational": ["PostgreSQL", "MySQL", "SQLite"],
+        "nosql": ["Firebase Firestore", "MongoDB"],
+        "orm": ["JPA/Hibernate", "SQLAlchemy"]
+    },
+    
+    "devops": {
+        "containerization": ["Docker", "Docker Compose"],
+        "version_control": ["Git", "GitHub", "GitHub Actions"],
+        "deployment": ["Railway", "Heroku", "AWS EC2"],
+        "ci_cd": ["GitHub Actions", "Maven", "Gradle"]
+    },
+    
+    "embedded_systems": {
+        "hardware": ["ESP32", "Arduino", "Raspberry Pi"],
+        "protocols": ["I2C", "UART", "SPI"],
+        "tools": ["PlatformIO", "Serial Monitor"]
+    },
+    
+    "testing": {
+        "frameworks": ["JUnit", "pytest", "Jest"],
+        "tools": ["Postman", "Mockito", "unittest"]
+    },
+    
+    "other_tools": [
+        "Linux/Unix", "VS Code", "IntelliJ IDEA", "Xcode",
+        "Eclipse", "Vim", "LaTeX", "Figma", "Scapy"
+    ]
+}
+```
 
-**Frameworks & Libraries**  
-`Spring Boot` `FastAPI` `React` `TensorFlow` `LangChain` `NumPy` `OpenCV`
-
-**Tools & Platforms**  
-`Git` `Docker` `PostgreSQL` `MySQL` `Firebase` `Railway`
-
+**Current Focus Areas:**
+- 🤖 Computer Vision & Real-Time Control Systems
+- 🧠 RAG Systems & LLM Applications  
+- 🏥 Healthcare Platform Development
+- ⚡ Embedded Systems & IoT
 ---
 
 ## 📫 Connect
